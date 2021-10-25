@@ -2951,6 +2951,9 @@ footer h4.h05::after {
 footer a, footer a:visited{
     color: #000!important; 
 }
+.black{
+  color: #000;
+}
 ::-webkit-scrollbar {
   width: 11px;
   height: 7px;

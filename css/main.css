@@ -1835,15 +1835,13 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 
 
-/* ===================================================================
- *  12. services - (_layout.scss)
- *
- * ------------------------------------------------------------------- */
+
 #services {
   background-color: #19191b;
   background-image: url(../images/banner.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;

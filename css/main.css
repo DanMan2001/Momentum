@@ -2951,3 +2951,16 @@ footer h4.h05::after {
 footer a, footer a:visited{
     color: #000!important; 
 }
+::-webkit-scrollbar {
+  width: 11px;
+  height: 7px;
+  border-width: 2px 5px;
+  border-style: solid;
+  border-color: #f9f9f9;
+  background: #252525;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 4px solid #f9f9f9;
+  background: rgb(181, 99, 87);
+}

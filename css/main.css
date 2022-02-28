@@ -166,6 +166,7 @@ blockquote p {
   font-family: "librebaskerville-italic", georgia, serif;
   font-style: italic;
   padding: 0;
+    color: #000; 
   font-size: 1.9rem;
   line-height: 1.895;
 }
@@ -175,6 +176,7 @@ blockquote cite {
   font-size: 1.3rem;
   font-style: normal;
   line-height: 1.615;
+    color: #000; 
 }
 
 blockquote cite:before {
@@ -1463,7 +1465,7 @@ header .header-logo a {
   width: 100%;
   height: 100%;
   background-color: #151515;
-  background-image: url(../images/Ballerina%20-%2025125.gif);
+  background-image: url(../images/portada_url.gif);
   background-repeat: no-repeat;
   background-position: center 30%;
   -webkit-background-size: cover;
@@ -2966,4 +2968,7 @@ footer a, footer a:visited{
 ::-webkit-scrollbar-thumb {
   border: 4px solid #f9f9f9;
   background: rgb(181, 99, 87);
+}
+.person{
+    color: #000; 
 }

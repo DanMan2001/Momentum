@@ -2972,3 +2972,19 @@ footer a, footer a:visited{
 .person{
     color: #000; 
 }
+.white{
+    color: #fff;
+}
+#Myid{
+    display: none; 
+}
+.linea-boton{
+background: #B4DBC0;
+    font-weight: 800;
+      font-family: "librebaskerville-regular", serif;
+
+}
+
+.bailarines{
+    padding: 4rem 0 0 0;
+}
